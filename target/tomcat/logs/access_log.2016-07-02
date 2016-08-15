@@ -1,0 +1,9 @@
+127.0.0.1 - - [02/Jul/2016:14:25:40 +0530] "GET /MavenProject/ HTTP/1.1" 200 4024 http-bio-8080-exec-1 252
+127.0.0.1 - - [02/Jul/2016:14:25:40 +0530] "GET /MavenProject/static/css/main.css;jsessionid=85EF720EAA76B2B9B28E9C09D1FF6EF2 HTTP/1.1" 200 2635 http-bio-8080-exec-2 62
+127.0.0.1 - - [02/Jul/2016:14:25:40 +0530] "GET /MavenProject/static/css/static/image/webPage.jpg HTTP/1.1" 404 949 http-bio-8080-exec-6 4
+127.0.0.1 - - [02/Jul/2016:14:25:40 +0530] "GET /MavenProject/static/image/image-1.jpg HTTP/1.1" 200 10696 http-bio-8080-exec-3 40
+127.0.0.1 - - [02/Jul/2016:14:25:40 +0530] "GET /MavenProject/static/image/image-3.jpg HTTP/1.1" 200 35149 http-bio-8080-exec-5 32
+127.0.0.1 - - [02/Jul/2016:14:25:40 +0530] "GET /MavenProject/static/image/image-4.jpg HTTP/1.1" 200 395079 http-bio-8080-exec-7 49
+127.0.0.1 - - [02/Jul/2016:14:25:40 +0530] "GET /MavenProject/static/image/image-2.jpg HTTP/1.1" 200 1088498 http-bio-8080-exec-4 114
+127.0.0.1 - - [02/Jul/2016:14:25:41 +0530] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-4 0
+127.0.0.1 - - [02/Jul/2016:14:25:41 +0530] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-4 0

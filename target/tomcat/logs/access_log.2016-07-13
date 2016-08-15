@@ -1,0 +1,2 @@
+127.0.0.1 - - [13/Jul/2016:12:25:27 +0530] "GET /MavenProject/student HTTP/1.1" 200 719 http-bio-8080-exec-6 6494
+127.0.0.1 - - [13/Jul/2016:12:27:20 +0530] "POST /MavenProject/addStudent HTTP/1.1" 200 335 http-bio-8080-exec-5 6423

@@ -1,0 +1,7 @@
+0:0:0:0:0:0:0:1 - - [14/Jun/2016:19:05:57 +0530] "GET /MavenProject/ HTTP/1.1" 200 3980 http-bio-8080-exec-7 8730
+0:0:0:0:0:0:0:1 - - [14/Jun/2016:19:05:58 +0530] "GET /MavenProject/static/css/main.css HTTP/1.1" 200 2635 http-bio-8080-exec-7 515
+0:0:0:0:0:0:0:1 - - [14/Jun/2016:19:05:59 +0530] "GET /MavenProject/static/image/image-1.jpg HTTP/1.1" 200 10696 http-bio-8080-exec-3 504
+0:0:0:0:0:0:0:1 - - [14/Jun/2016:19:05:59 +0530] "GET /MavenProject/static/image/image-3.jpg HTTP/1.1" 200 35149 http-bio-8080-exec-2 556
+0:0:0:0:0:0:0:1 - - [14/Jun/2016:19:05:59 +0530] "GET /MavenProject/static/image/image-4.jpg HTTP/1.1" 200 395079 http-bio-8080-exec-8 372
+0:0:0:0:0:0:0:1 - - [14/Jun/2016:19:05:59 +0530] "GET /MavenProject/static/image/image-2.jpg HTTP/1.1" 200 1088498 http-bio-8080-exec-7 666
+0:0:0:0:0:0:0:1 - - [14/Jun/2016:19:05:59 +0530] "GET /MavenProject/static/css/static/image/webPage.jpg HTTP/1.1" 404 949 http-bio-8080-exec-9 493
