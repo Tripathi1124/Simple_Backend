@@ -27,13 +27,16 @@
 
     <bean id="userDAO" class="com.backend.DBAccess.impl.UserDAOImpl"/>
     <bean id="bandDAO" class="com.backend.DBAccess.impl.BandDAOImpl"/>
+    <bean id="songDAO" class="com.backend.DBAccess.impl.SongDAOImpl"/>
+    <bean id="playlistDAO" class="com.backend.DBAccess.impl.PlaylistDAOImpl"/>
+
 
     <bean id="dataSource"
           class="org.springframework.jdbc.datasource.DriverManagerDataSource">
 
         <property name="driverClassName" value="com.mysql.jdbc.Driver" />
         <property name="url" value="jdbc:mysql://localhost:3306/testdb" />
-        <property name="username" value="root" />
+        <property name="username" value="manish" />
         <property name="password" value="@123" />
     </bean>
 

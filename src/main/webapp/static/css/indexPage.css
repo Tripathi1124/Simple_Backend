@@ -1,3 +1,16 @@
+body {
+    margin : 0px;
+}
+
+a {
+    background-color: #4CAF50;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
  /* Dropdown Button */
 .dropbtn {
     background-color: #4CAF50;
@@ -64,8 +77,8 @@ li a {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    padding-left: 70px;
-    padding-right: 70px;
+    padding-left: 60px;
+    padding-right: 60px;
 }
 
 li a:hover:not(.active) {
@@ -87,4 +100,6 @@ html {
 
 .page-header {
     background: url(../../static/image/webPage.jpg) repeat;
+}
+
 }

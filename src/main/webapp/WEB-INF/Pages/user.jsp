@@ -6,7 +6,7 @@
 <body>
 
 <h2>User Information</h2>
-<form:form method="POST" action="/MavenProject/addUser">
+<form:form method="POST" action="/Simple_Backend/addUser">
    <table>
     <tr>
         <td><input type="text" name="name"> Name</input></td>
@@ -18,6 +18,10 @@
 
     <tr>
       <td><input type="text" name="email"> Email</input></td>
+    </tr>
+
+    <tr>
+      <td><input type="date" name="dob"> DOB</input></td>
     </tr>
 
     <tr>
